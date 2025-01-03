@@ -3,7 +3,8 @@
 ## Overview
 Campus Connect is a comprehensive student management system designed to streamline academic activities, track attendance, and manage course materials. Built with modern web technologies, it provides an intuitive interface for students to manage their academic journey.
 
-![Campus Connect Dashboard](https://your-screenshot-url.com)
+- [Campus Connect Dashboard](https://proxyguard.netlify.app/)
+- [Process flowchart](https://github.com/kadamsahil2511/Campus-Connect/blob/main/Anti_Proxy_Framework.png) 
 
 ## Table of Contents
 - [Features](#features)
@@ -151,7 +152,7 @@ const { notifications, markAsRead } = useNotifications();
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/your-username/campus-connect.git
+git clone https://github.com/kadamsahil2511/Campus-Connect.git
 
 # Install dependencies
 cd campus-connect
@@ -236,7 +237,4 @@ This project is licensed under the MIT License.
 
 ## Support
 
-For support, email support@campusconnect.com or open an issue in the repository.
-```
-
-</rewritten_file>
+kadamsahil2511@gmail.com or open an issue in the repository.
